@@ -42,3 +42,6 @@ tracker
 *.d
 
 doc
+
+
+logs/
